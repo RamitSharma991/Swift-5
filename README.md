@@ -12,5 +12,5 @@ Learning new intricacies of Swift 5 including
 - Nested Optionals
 - Dynamic Callable
 - Improved String Interpolation
-- Non-exhaustive enums : interpolation that joins array of string
+- Non-exhaustive enums : interpolation that joins array of string, repeating a string value 
 - Checking for integer multiples
