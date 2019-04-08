@@ -15,6 +15,7 @@ Learning new intricacies of Swift 5.
 - Raw strings
 - Nested Optionals
 - Dynamic Callable
-- Improved String Interpolation: interpolation that joins array of string, repeating a string value 
+- Improved String Interpolation
+- Interpolation that joins array of string, repeating a string value 
 - Non-exhaustive enums 
 - Checking for integer multiples
