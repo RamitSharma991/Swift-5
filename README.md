@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <<blockquote class="imgur-embed-pub" lang="en" data-id="a/86xvMUa"><a href="//imgur.com/86xvMUa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>>
+  <a href="//imgur.com/86xvMUa"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>>
 </p>
 
 
