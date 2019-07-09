@@ -2,9 +2,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Swift-5.0-green.svg" />
 </p>
-
-
-
 <p align="center">
   <a href="https://imgur.com/QXVAnpA"><img src="https://i.imgur.com/QXVAnpA.png" title="source: imgur.com" /></a>
 </p>
