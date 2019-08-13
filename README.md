@@ -20,4 +20,3 @@ Learning new intricacies of Swift 5.
 - Non-exhaustive enums 
 - Checking for integer multiples
 
-
