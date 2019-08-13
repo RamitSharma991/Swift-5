@@ -21,4 +21,3 @@ Learning new intricacies of Swift 5.
 - Checking for integer multiples
 
 
-
