@@ -21,4 +21,3 @@ Learning new intricacies of Swift 5.
 - Interpolation that joins array of string, repeating a string value 
 - Non-exhaustive enums 
 - Checking for integer multiples
-
